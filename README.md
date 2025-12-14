@@ -21,10 +21,10 @@ Simple by design. Practical by purpose.
 ## 📸 Preview
 
 ### Main Menu
-![To-Do List Menu Preview](preview-menu.png)
+![To-Do List Menu Preview](todo_preview.jpg)
 
 ### Task List View
-![To-Do List Tasks Preview](preview-tasks.png)
+![To-Do List Tasks Preview](task_preview.jpg)
 
 ---
 
